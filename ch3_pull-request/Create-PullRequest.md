@@ -12,6 +12,7 @@ In Chapter 3 - _Teamwork and Collaborative Development_ we learn how to collabo
 4. Add Line 1
 5. Add Line 2
 6. Add Line 3
+Add line 4 
 
 
 4. Modify the following line by removing the letters that do not belong:
